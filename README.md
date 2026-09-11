@@ -1,5 +1,4 @@
 Machine Learning Workshop | Python & Data Science
-
 This workshop provided practical experience in Python programming, data handling, machine learning, and model development, covering the complete workflow from data preparation and exploratory analysis to model evaluation and deployment-ready pipelines.
 
 Developed foundational skills in Python, NumPy, and Pandas for data manipulation, cleaning, and preprocessing.
